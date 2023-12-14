@@ -21,3 +21,5 @@ a_list = ["hello", "6", "me", "you", "2", "11", "ohno", "-1", "yup", "0"]
 #This is an example
 myclass = DataValidation()
 myclass.checkData(a_list)
+
+#Merry Christmas
