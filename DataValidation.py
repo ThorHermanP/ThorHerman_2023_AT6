@@ -1,3 +1,4 @@
+#This is my data validation
 class DataValidation():
     def __init__(self):
         self.myList = []
@@ -14,7 +15,9 @@ class DataValidation():
         print(self.myList)
 
 
+#Here is a list
 a_list = ["hello", "6", "me", "you", "2", "11", "ohno", "-1", "yup", "0"]
 
+#This is an example
 myclass = DataValidation()
 myclass.checkData(a_list)
